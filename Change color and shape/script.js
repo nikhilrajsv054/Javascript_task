@@ -30,4 +30,15 @@ function changeShape()
     i.className = "inner";
     isTriangle = false;
   }
+
+    // var c = document.getElementById("inner");//document.getElementById("myCanvas");
+    // var ctx = c.getContext("2d");
+    // ctx.beginPath();
+    // ctx.moveTo(20, 20);
+    // ctx.lineTo(20, 100);
+    // ctx.lineTo(70, 100);
+    // ctx.closePath();
+    // ctx.stroke();
+    // ctx.fillStyle = "red";
+    // ctx.fill();
 }
